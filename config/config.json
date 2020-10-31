@@ -1,25 +1,25 @@
 {
   "development": {
-    "username": "root",
-    "password": null,
-    "database": "calculo_bobino",
-    "host": "127.0.0.1",
+    "username": "bd2b2bf705bd76",
+    "password": "21c4b970",
+    "database": "heroku_fa5386a279081e3",
+    "host": "us-cdbr-east-02.cleardb.com",
     "dialect": "mysql",
     "operatorsAliases": 0
   },
   "test": {
-    "username": "root",
-    "password": null,
-    "database": "calculo_bobino",
-    "host": "127.0.0.1",
+    "username": "bd2b2bf705bd76",
+    "password": "21c4b970",
+    "database": "heroku_fa5386a279081e3",
+    "host": "us-cdbr-east-02.cleardb.com",
     "dialect": "mysql",
     "operatorsAliases": 0
   },
   "production": {
-    "username": "root",
-    "password": null,
-    "database": "calculo_bobino",
-    "host": "127.0.0.1",
+    "username": "bd2b2bf705bd76",
+    "password": "21c4b970",
+    "database": "heroku_fa5386a279081e3",
+    "host": "us-cdbr-east-02.cleardb.com",
     "dialect": "mysql",
     "operatorsAliases": 0
   }
